@@ -2855,6 +2855,10 @@ section.live-streaming .inner .head p {
 .wedding-gift-bank-wrap .bank-item.show {
   display: flex;
   align-items: center;
+  padding: 20px;
+  background: #eee;
+  margin: 20px 5px;
+  border-radius: 20px;
 }
 /* Bank Detail */
 .wedding-gift-bank-wrap .bank-detail {
