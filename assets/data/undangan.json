@@ -1,1 +1,1 @@
-{"_detail":{"fileName":"undangan","sha":"22d4a8de07d34c5dc91a86967c785e95a1aeef1d","lastUpdate":"2026-04-23T05:24:27.320Z","lastId_tamu":1},"tamu":[{"id":1,"kehadiran":"Tidak Hadir","nama":"Arto Printing","acara":[]}]}
+{"_detail":{"fileName":"undangan","sha":"e24a11c2f44aa8935524da592076d90c583fa66f","lastUpdate":"2026-05-08T15:50:05.056Z","lastId_tamu":2},"tamu":[{"id":1,"kehadiran":"Tidak Hadir","nama":"Arto Printing","acara":[]},{"id":2,"kehadiran":"Hadir","acara":["Resepsi"],"nama":"Latip"}]}
